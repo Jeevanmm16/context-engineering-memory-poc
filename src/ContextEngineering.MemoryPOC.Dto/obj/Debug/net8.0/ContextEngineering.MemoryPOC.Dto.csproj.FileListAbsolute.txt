@@ -1,0 +1,15 @@
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.AssemblyInfoInputs.cache
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.AssemblyInfo.cs
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.csproj.CoreCompileInputs.cache
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.deps.json
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.dll
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.pdb
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.dll
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.pdb
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.csproj.AssemblyReference.cache
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextE.4E00B891.Up2Date
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.dll
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\refint\ContextEngineering.MemoryPOC.Dto.dll
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.pdb
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ref\ContextEngineering.MemoryPOC.Dto.dll

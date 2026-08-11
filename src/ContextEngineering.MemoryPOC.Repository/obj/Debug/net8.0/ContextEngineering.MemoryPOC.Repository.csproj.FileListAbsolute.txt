@@ -1,0 +1,17 @@
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.deps.json
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.runtimeconfig.json
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.dll
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.pdb
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.dll
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.pdb
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.csproj.AssemblyReference.cache
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.AssemblyInfoInputs.cache
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.AssemblyInfo.cs
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.csproj.CoreCompileInputs.cache
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextE.59775212.Up2Date
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.dll
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\refint\ContextEngineering.MemoryPOC.Repository.dll
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.pdb
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.genruntimeconfig.cache
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ref\ContextEngineering.MemoryPOC.Repository.dll

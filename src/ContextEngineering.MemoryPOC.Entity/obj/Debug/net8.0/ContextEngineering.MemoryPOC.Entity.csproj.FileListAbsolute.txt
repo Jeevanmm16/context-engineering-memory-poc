@@ -1,0 +1,11 @@
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.deps.json
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.dll
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\bin\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.pdb
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.AssemblyInfoInputs.cache
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.AssemblyInfo.cs
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.csproj.CoreCompileInputs.cache
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.dll
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\obj\Debug\net8.0\refint\ContextEngineering.MemoryPOC.Entity.dll
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Entity.pdb
+c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Entity\obj\Debug\net8.0\ref\ContextEngineering.MemoryPOC.Entity.dll

@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ContextEngineering.MemoryPOC.Api/ContextEngineering.MemoryPOC.Api.csproj" />
+    <Project Path="src/ContextEngineering.MemoryPOC.Dto/ContextEngineering.MemoryPOC.Dto.csproj" />
+    <Project Path="src/ContextEngineering.MemoryPOC.Entity/ContextEngineering.MemoryPOC.Entity.csproj" />
+    <Project Path="src/ContextEngineering.MemoryPOC.Repository/ContextEngineering.MemoryPOC.Repository.csproj" />
+    <Project Path="src/ContextEngineering.MemoryPOC.Service/ContextEngineering.MemoryPOC.Service.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ContextEngineering.MemoryPOC.Tests/ContextEngineering.MemoryPOC.Tests.csproj" />
+  </Folder>
+</Solution>
