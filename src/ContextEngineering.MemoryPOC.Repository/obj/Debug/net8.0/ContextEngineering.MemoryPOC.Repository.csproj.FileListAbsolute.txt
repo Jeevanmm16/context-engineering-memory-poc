@@ -15,3 +15,4 @@ c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.Memor
 c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.pdb
 c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.genruntimeconfig.cache
 c:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ref\ContextEngineering.MemoryPOC.Repository.dll
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Repository\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Repository.sourcelink.json

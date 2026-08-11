@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContextEngineering.MemoryPOC.Dto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0d84599214fa319c6b379c889de321f4661b91d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContextEngineering.MemoryPOC.Dto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContextEngineering.MemoryPOC.Dto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

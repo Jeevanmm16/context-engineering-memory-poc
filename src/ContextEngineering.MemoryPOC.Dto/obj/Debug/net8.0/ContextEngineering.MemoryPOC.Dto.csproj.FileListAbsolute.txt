@@ -13,3 +13,4 @@ C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.Memor
 C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\refint\ContextEngineering.MemoryPOC.Dto.dll
 C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.pdb
 C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ref\ContextEngineering.MemoryPOC.Dto.dll
+C:\Users\costrategix\context-engineering-memory-poc\src\ContextEngineering.MemoryPOC.Dto\obj\Debug\net8.0\ContextEngineering.MemoryPOC.Dto.sourcelink.json

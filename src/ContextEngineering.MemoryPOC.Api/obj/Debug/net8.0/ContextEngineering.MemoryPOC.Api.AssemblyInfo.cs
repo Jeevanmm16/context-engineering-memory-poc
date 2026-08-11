@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("fdb5a999-0b85-4592-855a-43cc1b79471a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContextEngineering.MemoryPOC.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0d84599214fa319c6b379c889de321f4661b91d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContextEngineering.MemoryPOC.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContextEngineering.MemoryPOC.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
